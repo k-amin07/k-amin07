@@ -1,4 +1,4 @@
-## 👋 Introduction
+## 👋 Welcome to my Github Profile
 I am a Computer Science enthusiast from Lahore, Pakistan. I am currently working as a Research Assistant at SBASSE, LUMS. 
 
 ## 💻 My Gists:
