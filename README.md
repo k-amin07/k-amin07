@@ -1,12 +1,16 @@
 ## Welcome to my Github Profile
-I am a Computer Science enthusiast from Lahore, Pakistan. I am currently working as a Research Assistant at SBASSE, LUMS. 
+I love solving challenging problems, exploring Linux and open source projects and writing tutorials for the things I try for my 3 am dose of serotonin.
+
+## Tech Stack:
+- For my day job, I work with the likes of NodeJS, ExpressJS, Apollo GraphQl, Neo4j, SQL, Redis and AWS (Elastic Beanstalk, EC2, ElastiCache, and a bit of lambda).
+- I usually solve leetcode problems and write automation scripts in Python.
+- I have previously worked with Stem library for Tor and Selenium for automation in Python.
 
 ## My Gists:
 Here is the link to my public [gists](https://gist.github.com/k-amin07/ffad726cae285d7b280e24acfb896407). The things that I explore and learn on my free time go here.
 
-## Technologies
-- I am currently working on **Stem for Tor on Python**
-- Web automation using **Selenium**
+## Leetcode:
+I post solutions to the problems I solve on leetcode [here](https://github.com/k-amin07/leetcode).
 
 ## Contact Me
-- LinkedIn - [Khizar Amin](https://www.linkedin.com/in/k-amin07/)
+LinkedIn - [Khizar Amin](https://www.linkedin.com/in/k-amin07/)
