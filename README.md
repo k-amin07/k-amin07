@@ -4,6 +4,7 @@ I love solving challenging problems, exploring Linux and open source projects an
 ## Tech Stack:
 - For my day job, I work with the likes of NodeJS, ExpressJS, Apollo GraphQl, Neo4j, SQL, Redis and AWS (Elastic Beanstalk, EC2, ElastiCache, and a bit of lambda).
 - I usually solve leetcode problems and write automation scripts in Python.
+- I am currently learning [Rust](https://github.com/k-amin07/Rust)
 - I have previously worked with Stem library for Tor and Selenium for automation in Python.
 
 ## My Gists:
