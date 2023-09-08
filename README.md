@@ -15,5 +15,6 @@ Here is the link to my public [gists](https://gist.github.com/k-amin07/ffad726ca
 I post solutions to the problems I solve on leetcode [here](https://github.com/k-amin07/leetcode).
 
 ## Contact Me
-Portfolio - [khizaramin.com](htts://www.khizaramin.com/)
+Portfolio - [khizaramin.com](https://www.khizaramin.com/)
+
 LinkedIn - [Khizar Amin](https://www.linkedin.com/in/k-amin07/)
