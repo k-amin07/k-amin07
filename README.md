@@ -2,7 +2,7 @@
 I love solving challenging problems, exploring Linux and open source projects and writing tutorials for the things I try for my 3 am dose of serotonin.
 
 ## Tech Stack:
-- For my day job, I work with the likes of NodeJS, ExpressJS, Apollo GraphQl, Neo4j, SQL, Redis and AWS (Elastic Beanstalk, EC2, ElastiCache, CodePipelin, Lambda).
+- For my day job, I work with the likes of NodeJS, ExpressJS, Apollo GraphQl, Neo4j, SQL, Redis and AWS (Elastic Beanstalk, EC2, ElastiCache, CodePipeline, Lambda).
 - I usually solve leetcode problems and write automation scripts in Python.
 - My portfolio is written in Next.js.
 - I am currently learning [Rust](https://github.com/k-amin07/Rust) as a hobby.
